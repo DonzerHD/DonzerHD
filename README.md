@@ -1,7 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my profile</h1>
-
-
-<p>I am Thomas currently studying at Simplon Co as an artificial intelligence developer. I currently live in northern France  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my profile</h1>
+<div align="center">
+<img src="https://media0.giphy.com/media/1BdJd24oEwvuSvXYb0/giphy.gif?cid=ecf05e478pdn6sot0xipu7xtt1tqo05zk77h7pedndm9892q&rid=giphy.gif&ct=g" alt="this slowpoke moves"  width="450" /></div>
+<br>
+<h4 align="center">I am Thomas currently studying at Simplon Co as an artificial intelligence developer. I currently live in northern France .</h4>  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
 <h3>Things I code with</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,12 +22,11 @@
   <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
 </p>
-<h3>GitHub Stats</h3>
- <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=DonzerHD" />
-<h3>Most Used Language</h3>
+<h1> Github Profils Stats </h1>
+ <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=DonzerHD" />
 <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonzerHD" />
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/DonzerHD" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- </a> <a href="https://www.linkedin.com/in/thomas-lemay-78b50b216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ </a> <a target="_blank" href="https://www.linkedin.com/in/thomas-lemay-78b50b216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
