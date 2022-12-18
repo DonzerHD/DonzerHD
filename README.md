@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://media0.giphy.com/media/1BdJd24oEwvuSvXYb0/giphy.gif?cid=ecf05e478pdn6sot0xipu7xtt1tqo05zk77h7pedndm9892q&rid=giphy.gif&ct=g" alt="this slowpoke moves"  width="450" /></div>
 <br>
-<h4 align="center">I am Thomas currently studying at Simplon Co as an artificial intelligence developer. I currently live in northern France .</h4>  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
+<h4 align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>  I am Thomas currently studying at Simplon Co as an artificial intelligence developer. I currently live in northern France .  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h4>  
 <h3>Things I code with</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
