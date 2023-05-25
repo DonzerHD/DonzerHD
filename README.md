@@ -2,32 +2,41 @@
 <div align="center">
 <img src="https://media0.giphy.com/media/1BdJd24oEwvuSvXYb0/giphy.gif?cid=ecf05e478pdn6sot0xipu7xtt1tqo05zk77h7pedndm9892q&rid=giphy.gif&ct=g" alt="this slowpoke moves"  width="450" /></div>
 <br>
-<h4 align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>  I am Thomas currently studying at Simplon Co as an artificial intelligence developer. I currently live in northern France .  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h4>  
-<h3>Languages and Tools:</h3>
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="MK" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="ApacheMaven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
-  <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="springboot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
-  <img alt="discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-</p>
+
+# Hello, I'm Thomas 👋
+
+## 🚀 About Me
+I'm currently a student at the Microsoft Developer Data AI School by Simplon in Roubaix, located in the north of France. I'm passionate about artificial intelligence and data.
+
+<img align="right" src="https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp" width="300" />
+
+## 🛠️ Technical Skills
+- Data/IA Development (Python):
+  - Data Manipulation: ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas), ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy), ![Scrapy](https://img.shields.io/badge/-Scrapy-05122A?style=flat&logo=scrapy), ![Pyspark](https://img.shields.io/badge/-Pyspark-05122A?style=flat&logo=apache)
+  - Data Visualization: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib), ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn), ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly), ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)
+  - Machine Learning: ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikit-learn), ![XGboost](https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=xgboost), ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow), ![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
+- Web Application Development:
+  - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5), ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3), ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+- Frameworks:
+  - Java: ![JakartaEE](https://img.shields.io/badge/-JakartaEE-05122A?style=flat&logo=jakarta), ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate), ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring), ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-05122A?style=flat&logo=thymeleaf), ![ApacheTomcat](https://img.shields.io/badge/-ApacheTomcat-05122A?style=flat&logo=apache)
+  - Python: ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django), ![FastApi](https://img.shields.io/badge/-FastApi-05122A?style=flat&logo=fastapi), ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
+- Databases:
+  - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
+  - Design, create and query a database: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql), ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=google-cloud), ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+- Project Management and Collaboration:
+  - ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git), ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github), ![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum), ![Agile](https://img.shields.io/badge/-Agile-05122A?style=flat&logo=agile), ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira), ![Mlflow](https://img.shields.io/badge/-Mlflow-05122A?style=flat&logo=mlflow)
+- Devops:
+  - ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker), ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure), ![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=sentry), ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python), ![GithubAction](https://img.shields.io/badge/-GithubAction-05122A?style=flat&logo=github-actions)
+
+## 🎲 Interests
+I love strategy video games like Europa Universalis IV and Crusader Kings 3. I'm also a history and geopolitics enthusiast. I'm also fascinated by robotics.
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQ4YzRkMDE1ODRlMjNiOWNmY2FiOTA2ZjAzN2NkNTFjYzFiYWNlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l1J9JtMnJWjWaFXy0/giphy.gif" width="300" height='230' />
+<br>
+<br>
+<br>
+<br>
+<br>
 <h1> Github Profils Stats </h1>
  <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=DonzerHD" />
 <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonzerHD" />
