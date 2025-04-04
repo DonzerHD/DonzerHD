@@ -6,7 +6,7 @@
 # Hello, I'm Thomas 👋
 
 ## 🚀 About Me
-I'm currently a student at the Microsoft Developer Data AI School by Simplon in Roubaix, located in the north of France. I'm passionate about artificial intelligence and data.
+I'm passionate about artificial intelligence and data.
 
 <img align="right" src="https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp" width="300" />
 
